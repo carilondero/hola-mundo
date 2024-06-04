@@ -1,2 +1,5 @@
 # hola-mundo
-mi primer repositorio gi
+
+mi primer repositorio git
+
+Seguimos aprendiendo. 
